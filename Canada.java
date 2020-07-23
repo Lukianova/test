@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Iterator;
 /**
- * This class describes Canada
+ * This class describes Canada. Use this class to migrate from bluej to inlellij idea
  *
  * @author Nataliia Lukianova
  * @version 1.0
@@ -135,5 +135,6 @@ public class Canada
         }
         
         return theProvince.getPopulation();
+        System.out.println(theProvince.getPopulation());
     }
 }    
