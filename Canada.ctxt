@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Canada
+comment0.text=\n\ This\ class\ describes\ Canada\n\n\ @author\ Nataliia\ Lukianova\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Canada()
+comment2.params=
+comment2.target=int\ getTotalPopulation()
+comment2.text=\n\ @return\ Canada's\ total\ population\n
+comment3.params=
+comment3.target=java.lang.String\ getLowestPopulation()
+comment3.text=\n\ @return\ the\ name\ of\ the\ province\ that\ has\ the\ lowest\ population\n
+comment4.params=province
+comment4.target=int\ getPopulation(java.lang.String)
+comment4.text=\n\ @return\ the\ population\ of\ the\ province\n\ @param\ 'province'can\ not\ be\ null\ or\ empty\n
+numComments=5

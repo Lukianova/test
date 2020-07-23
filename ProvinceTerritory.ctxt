@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ProvinceTerritory
+comment0.text=\n\ This\ class\ describes\ ProvinceTerritory.\n\n\ @author\ Nataliia\ Lukianova\n\ @version\ 1.0\n
+comment1.params=name\ population
+comment1.target=ProvinceTerritory(java.lang.String,\ int)
+comment1.text=\n\ Main\ constractor\n\ @param\ name\ can\ NOT\ be\ null\ an\ must\ be\ at\ least\ {@value\ \#MIN_LENGTH}\ charachters\ long\n\ @param\ population\n
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\n\ Mutator\n\ @param\ name\ can\ NOT\ be\ null\ an\ must\ be\ at\ least\ {@value\ \#MIN_LENGTH}\ charachters\ long\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Accessor\n\ @return\ province\ name\n
+comment4.params=population
+comment4.target=void\ setPopulation(int)
+comment4.text=\n\ Mutator\n\ @param\ population\ can\ not\ be\ negative\n
+comment5.params=
+comment5.target=int\ getPopulation()
+comment5.text=\n\ Accessor\n\ @return\ province\ population\ \n
+numComments=6
